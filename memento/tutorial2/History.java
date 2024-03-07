@@ -1,5 +1,3 @@
-package memento.tutorial2;
-
 import java.util.ArrayList;
 
 public class History {

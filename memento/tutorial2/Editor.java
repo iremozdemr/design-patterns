@@ -1,5 +1,3 @@
-package memento.tutorial2;
-
 public class Editor {
     private String content;
 
